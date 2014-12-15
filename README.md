@@ -13,49 +13,49 @@
 <tr>
 <td>10<sup>-1</sup></td>
 <td>10</td>
-<td>8</td>
+<td>16</td>
 </tr>
 
 <tr>
 <td>10<sup>-2</sup></td>
 <td>15</td>
-<td>11</td>
+<td>24</td>
 </tr>
 
 <tr>
 <td>10<sup>-3</sup></td>
 <td>20</td>
-<td>15</td>
+<td>30</td>
 </tr>
 
 <tr>
 <td>10<sup>-4</sup></td>
-<td>24</td>
-<td>18</td>
+<td>25</td>
+<td>36</td>
 </tr>
 
 <tr>
 <td>10<sup>-5</sup></td>
 <td>29</td>
-<td>21</td>
+<td>44</td>
 </tr>
 
 <tr>
 <td>10<sup>-6</sup></td>
 <td>34</td>
-<td>25</td>
+<td>50</td>
 </tr>
 
 <tr>
 <td>10<sup>-7</sup></td>
 <td>39</td>
-<td>28</td>
+<td>56</td>
 </tr>
 
 <tr>
 <td>10<sup>-8</sup></td>
 <td>44</td>
-<td>31</td>
+<td>64</td>
 </tr>
 </tbody></table>
 </body></html>
